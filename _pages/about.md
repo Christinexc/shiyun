@@ -37,4 +37,3 @@ Skills
 * Java
 * Python
   * Pytorch
-...
