@@ -10,6 +10,36 @@ redirect_from:
 
 I am a senior student majoring in Software Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/). Previously, I worked with [Yue Feng](https://fengyue-leah.github.io/) during my visit to the [University of Birmingham](https://www.birmingham.ac.uk/). Currently, I am a Research Assistant at [National University of Singapore](https://www.nus.edu.sg/). My research interests include LLM, Multimodal Models, and LLM-driven Agent Frameworks.
 
+Education
+======
+* B.S. in Harbin Institute of Technology(Weihai), 2025 (Expected)
+
+Work experience
+======
+* Spring 2024 - Now: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
+* Fall 2024: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+    
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
