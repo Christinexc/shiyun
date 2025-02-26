@@ -13,7 +13,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shiyun Xiong"
 description              : &description "personal description"
-url                      : "https://christinexc.github.io/shiyun/"
+url                      : "https://christinexc.github.io/shiyun"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
