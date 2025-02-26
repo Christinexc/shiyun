@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024/7/7
 venue: '2024 IEEE International Conference on Web Services (ICWS)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10707522'
 citation: 'B. Zhang, S. Xiong, D. Sui, Y. Xu, Z. Tu and D. Chu, "RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation," 2024 IEEE International Conference on Web Services (ICWS), Shenzhen, China, 2024, pp. 342-351, doi: 10.1109/ICWS62655.2024.00056. keywords: {Visualization;Codes;Web services;Navigation;Web pages;Benchmark testing;Older adults;Multi-modal Benchmarks;Web services;Web navigation;Instruction Following;Object Detection},'
 ---
