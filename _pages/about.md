@@ -36,4 +36,4 @@ Skills
 * C/C++
 * Java
 * Python
-  * Pytorch
+* Pytorch
