@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student majoring in Software Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/). Previously, I worked with [Yue Feng](https://fengyue-leah.github.io/) during my visit to the University of Birmingham. Currently, I am a Research Assistant at National University of Singapore (NUS). My research interests include LLM, Multimodal Models, and LLM-driven Agent Frameworks.
+I am a senior student majoring in Software Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/). Previously, I worked with [Yue Feng](https://fengyue-leah.github.io/) during my visit to the [University of Birmingham](https://www.birmingham.ac.uk/). Currently, I am a Research Assistant at [National University of Singapore](https://www.nus.edu.sg/). My research interests include LLM, Multimodal Models, and LLM-driven Agent Frameworks.
 
 A data-driven personal website
 ======
